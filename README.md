@@ -4,7 +4,7 @@ class JuaniVillanueva:
         self.name = "Juani Villanueva"
         self.location = "Argentina"
         self.pursuit = "Computer Science degree"
-        self.experience = "Frontend Moodle developer"
+        self.experience = "Moodle developer"
         self.languages = ["English", "Spanish"]
         self.technologies = ["Flutter", "Moodle", "MySQL/PostgreSQL", "Firebase", "Docker", "Git/GitHub", "Xcode/Android Studio"]
 
