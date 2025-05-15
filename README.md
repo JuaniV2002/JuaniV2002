@@ -5,14 +5,13 @@ class JuaniVillanueva:
         self.location = "Argentina"
         self.pursuit = "Computer Science degree"
         self.experience = "Moodle developer"
-        self.company = "Facultad de Ciencas Económicas | UNRC"
         self.languages = ["English", "Spanish"]
         self.technologies = ["Flutter", "Moodle", "MySQL/PostgreSQL", "Firebase", "Docker", "Git/GitHub", "Xcode/Android Studio"]
 
     def __str__(self):
         return (
             f"Hey there! I'm {self.name} from {self.location}, pursuing a {self.pursuit}.\n"
-            f"I'm currently working as a {self.experience} at {self.company}"
+            f"I'm currently working as a {self.experience} at Facultad de Ciencias Económicas, UNRC"
             f"Languages: {', '.join(self.languages)}\n"
             f"Technologies: {', '.join(self.technologies)}\n"
             "Feel free to explore my repositories and connect with me!"
