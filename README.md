@@ -29,5 +29,5 @@ print(profile)
 
 <!-- Light Mode -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juaniv2002&layout=compact&langs_count=8&card_width=835&theme=default&title_color=000000&bg_color=ffffff&border_color=ffffff&text_color=000000#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juaniv2002&layout=compact&langs_count=8&card_width=835&theme=default&title_color=000000&bg_color=f6f8fa&border_color=f6f8fa&text_color=000000#gh-light-mode-only" />
 </a>
