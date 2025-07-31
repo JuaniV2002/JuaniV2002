@@ -24,10 +24,10 @@ print(profile)
 
 <!-- Dark Mode -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juaniv2002&layout=compact&langs_count=8&card_width=845&theme=transparent&title_color=d2d7df&bg_color=151b23&border_color=151b23&text_color=d2d7df#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juaniv2002&layout=compact&langs_count=8&card_width=805&theme=transparent&title_color=d2d7df&bg_color=151b23&border_color=151b23&text_color=d2d7df#gh-dark-mode-only" />
 </a>
 
 <!-- Light Mode -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juaniv2002&layout=compact&langs_count=8&card_width=845&theme=default&title_color=1f2329&bg_color=f6f8fa&border_color=f6f8fa&text_color=1f2329#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juaniv2002&layout=compact&langs_count=8&card_width=805&theme=default&title_color=1f2329&bg_color=f6f8fa&border_color=f6f8fa&text_color=1f2329#gh-light-mode-only" />
 </a>
